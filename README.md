@@ -6,11 +6,18 @@ I am a **Computer Science Graduate** passionate about software development, prob
 Here are the technologies I work with:
 
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js, MongoDB, Python
+- **Backend:** Node.js, Express.js, MongoDB
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Tools:** Docker, Postman, VS Code, Linux
+- **Tools:**  Postman, VS Code
+- **Frameworks:** Axios,Mongoose,Socket.io
+- **Languages:** python(proficient),java(intermediate),c,solidity(beginner)
 
+## My Coding permance
+ ![Leetcode](https://leetcode.com/u/Raghavendra90/)
+ ![CodeChef](https://www.codechef.com/users/raghavendra91) 
+ ![GeekforGeeks](https://www.geeksforgeeks.org/user/raghavnaqbkf/)
+ 
 ## 🚀 My GitHub Stats
 
 ![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true&theme=radical)
@@ -20,13 +27,12 @@ Here are the technologies I work with:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact&theme=radical)
 
 ## 🌱 What I’m currently learning:
-- DevOps tools like Jenkins, Kubernetes
-- Advanced frontend frameworks like Next.js
+- Diving deep into transformers and  neural networks
+- Backend in depth 
 
 ## 📫 How to reach me:
-- Email: raghavendra@example.com
-- LinkedIn: [Raghavendra](https://www.linkedin.com/in/your-link/)
+- Email: raghavnadiminti@gmail.com
+- LinkedIn: [Raghavendra](https://www.linkedin.com/in/raghavendranadiminti/))
 - GitHub: [Raghavnadiminti](https://github.com/Raghavnadiminti)
 
-Thanks for stopping by! 😄
 
