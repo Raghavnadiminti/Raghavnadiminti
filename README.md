@@ -1,10 +1,10 @@
 # Hi there, I'm Raghavendra! 👋
 
-I am a **Computer Science Graduate** passionate about software development, problem-solving, and always eager to learn new technologies. Welcome to my GitHub profile! 😊
+I am a **Computer Science** under graduate passionate about software development, problem-solving, and always eager to learn new technologies.I find it most rewarding to see interfaces come to life, powered by the backend code I've written .   
+Welcome to my GitHub profile! 😊
 
 ## 🔧 Tech Stack
-Here are the technologies I work with:
-
+Here are the technologies I work with:  
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js, MongoDB
 - **Databases:** MySQL, MongoDB
