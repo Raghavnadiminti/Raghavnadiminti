@@ -14,9 +14,9 @@ Here are the technologies I work with:
 - **Languages:** python(proficient),java(intermediate),c,solidity(beginner)
 
 ## My Coding permance
- ![Leetcode](https://leetcode.com/u/Raghavendra90/)
- ![CodeChef](https://www.codechef.com/users/raghavendra91) 
- ![GeekforGeeks](https://www.geeksforgeeks.org/user/raghavnaqbkf/)
+ -**Leetcode** [Raghavendra90](https://leetcode.com/u/Raghavendra90/)
+ -**codechef** [raghavendra91](https://www.codechef.com/users/raghavendra91) 
+ -**codeChef** [raghavnaqbkf](https://www.geeksforgeeks.org/user/raghavnaqbkf/)
  
 ## 🚀 My GitHub Stats
 
@@ -32,7 +32,7 @@ Here are the technologies I work with:
 
 ## 📫 How to reach me:
 - Email: raghavnadiminti@gmail.com
-- LinkedIn: [Raghavendra](https://www.linkedin.com/in/raghavendranadiminti/))
+- LinkedIn: [Raghavendra](https://www.linkedin.com/in/raghavendranadiminti/)
 - GitHub: [Raghavnadiminti](https://github.com/Raghavnadiminti)
 
 
