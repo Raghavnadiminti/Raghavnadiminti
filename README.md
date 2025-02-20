@@ -13,10 +13,10 @@ Here are the technologies I work with:
 - **Frameworks:** Axios,Mongoose,Socket.io
 - **Languages:** python(proficient),java(intermediate),c,solidity(beginner)
 
-## My Coding permance
- -**Leetcode** [Raghavendra90](https://leetcode.com/u/Raghavendra90/)
- -**codechef** [raghavendra91](https://www.codechef.com/users/raghavendra91) 
- -**codeChef** [raghavnaqbkf](https://www.geeksforgeeks.org/user/raghavnaqbkf/)
+## My Coding permance  
+ - **Leetcode** [Raghavendra90](https://leetcode.com/u/Raghavendra90/)  
+ - **codechef** [raghavendra91](https://www.codechef.com/users/raghavendra91) 
+ - **codeChef** [raghavnaqbkf](https://www.geeksforgeeks.org/user/raghavnaqbkf/)  
  
 ## 🚀 My GitHub Stats
 
