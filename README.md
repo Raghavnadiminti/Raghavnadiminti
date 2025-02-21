@@ -21,7 +21,7 @@ Here are the technologies I work with:
 ## 🚀 My GitHub Stats
 
 
-![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true&theme=radical)
+![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true)
 
 ## 📊 Most Used Languages
 
