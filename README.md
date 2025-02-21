@@ -25,7 +25,7 @@ Here are the technologies I work with:
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact)
 
 ## 🌱 What I’m currently learning:
 - Diving deep into transformers and  neural networks
