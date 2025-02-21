@@ -16,7 +16,7 @@ Here are the technologies I work with:
 ## My Coding permance  
  - **Leetcode** [Raghavendra90](https://leetcode.com/u/Raghavendra90/)  
  - **codechef** [raghavendra91](https://www.codechef.com/users/raghavendra91) 
- - **codeChef** [raghavnaqbkf](https://www.geeksforgeeks.org/user/raghavnaqbkf/)  
+ - **GeeksForGeeks** [raghavnaqbkf](https://www.geeksforgeeks.org/user/raghavnaqbkf/)  
  
 ## 🚀 My GitHub Stats
 
