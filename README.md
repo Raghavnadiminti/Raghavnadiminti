@@ -28,7 +28,7 @@ Here are the technologies I work with:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact)
 
 ## 🌱 What I’m currently learning:
-- Diving deep into transformers and  neural networks
+- Diving deep into transformers and  neural networks  
 -developing backend applications with quality 
 
 ## 📫 How to reach me:
