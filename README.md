@@ -29,7 +29,7 @@ Here are the technologies I work with:
 
 ## 🌱 What I’m currently learning:
 - Diving deep into transformers and  neural networks
-- Backend in depth 
+-developing backend applications with quality 
 
 ## 📫 How to reach me:
 - Email: raghavnadiminti@gmail.com
