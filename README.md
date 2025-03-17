@@ -20,7 +20,6 @@ Here are the technologies I work with:
  
 ## 🚀 My GitHub Stats
 
-
 ![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true)
 
 ## 📊 Most Used Languages
@@ -28,7 +27,7 @@ Here are the technologies I work with:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact)
 
 ## 🌱 What I’m currently learning:
-- Diving deep into transformers and  neural networks  
+- Diving deep into transformers and  neural networks and computer vision
 - Developing backend applications with quality 
 
 ## 📫 How to reach me:
