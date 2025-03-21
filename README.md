@@ -1,6 +1,8 @@
 # Hi there, I'm Raghavendra! 👋
 
 I am a **Computer Science** under graduate passionate about software development, problem-solving, and always eager to learn new technologies.I find it most rewarding to see interfaces come to life, powered by the backend code I've written .   
+
+
 Welcome to my GitHub profile! 😊
 
 ## 🔧 Tech Stack
@@ -25,6 +27,7 @@ Here are the technologies I work with:
 ## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact&cache_seconds=1800)
+
 
 ## 🌱 What I’m currently learning:
 - Diving deep into transformers and  neural networks and computer vision
