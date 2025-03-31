@@ -30,7 +30,7 @@ Here are the technologies I work with:
 
 
 ## 🌱 What I’m currently learning:
-- Diving deep into transformers and  neural networks and computer vision
+- Diving deep into transformers and  neural networks and GenAi
 - Developing backend applications with quality 
 
 ## 📫 How to reach me:
