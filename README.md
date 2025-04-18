@@ -31,7 +31,7 @@ Here are the technologies I work with:
 
 ## 🌱 What I’m currently learning:
 - Diving deep into transformers and  neural networks and GenAi
-- Developing backend applications with quality 
+- Developing complex backend applications
 
 ## 📫 How to reach me:
 - Email: raghavnadiminti@gmail.com
