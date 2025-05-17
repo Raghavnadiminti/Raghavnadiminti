@@ -9,10 +9,10 @@ Welcome to my GitHub profile! 😊
 Here are the technologies I work with:  
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js, MongoDB
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, MongoDB,postgresql
 - **Version Control:** Git, GitHub
 - **Tools:**  Postman, VS Code
-- **Frameworks:** Axios,Mongoose,Socket.io
+- **Frameworks and libraries:** Axios,Mongoose,Socket.io,Redux
 - **Languages:** python(proficient),java(intermediate),c,solidity(beginner)
 
 ## My Coding permance  
