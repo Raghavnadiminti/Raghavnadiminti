@@ -7,12 +7,12 @@ Welcome to my GitHub profile! 😊
 
 ## 🔧 Tech Stack
 Here are the technologies I work with:  
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js, MongoDB
+- **Frontend:** HTML, CSS, JavaScript, React.js, Nextjs
+- **Backend:** Node.js, Express.js, MongoDB, FastApi
 - **Databases:** MySQL, MongoDB,postgresql
 - **Version Control:** Git, GitHub
-- **Tools:**  Postman, VS Code
-- **Frameworks and libraries:** Axios,Mongoose,Socket.io,Redux
+- **Tools:**  Postman, VS Code, VercelCli
+- **Frameworks and libraries:** Reactjs, Nextjs, Axios, Mongoose, Socket.io, Redux
 - **Languages:** python(proficient),java(intermediate),c,solidity(beginner)
 
 ## My Coding permance  
@@ -22,16 +22,16 @@ Here are the technologies I work with:
  
 ## 🚀 My GitHub Stats
 
-![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true&cache_seconds=1900&hide_title=true)
+![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true&cache_seconds=190&hide_title=true)
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact&cache_seconds=1900)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact&cache_seconds=190)
 
 
 ## 🌱 What I’m currently learning:
 - Diving deep into transformers and  neural networks and GenAi
-- Developing complex backend applications
+- Developing complex backend applications and exploring system design
 
 ## 📫 How to reach me:
 - Email: raghavnadiminti@gmail.com
