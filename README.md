@@ -22,11 +22,11 @@ Here are the technologies I work with:
  
 ## 🚀 My GitHub Stats
 
-![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true&cache_seconds=190&hide_title=true)
+![Raghavendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavnadiminti&show_icons=true&cache_seconds=180&hide_title=true)
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact&cache_seconds=190)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavnadiminti&layout=compact&cache_seconds=180)
 
 
 ## 🌱 What I’m currently learning:
