@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 😊
 ## 🔧 Tech Stack
 Here are the technologies I work with:  
 - **Backend:** Node.js, Express.js, MongoDB, FastApi
--**Frontend:** HTML, CSS, JavaScript, React.js, Nextjs
+- **Frontend:** HTML, CSS, JavaScript, React.js, Nextjs
 - **Databases:** MySQL, MongoDB, postgresql
 - **DevOps:** Linux, AWS, Docker, ShellScripting, Nginx 
 - **Version Control:** Git, GitHub
